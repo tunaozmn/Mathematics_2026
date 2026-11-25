@@ -188,12 +188,6 @@ $$
 
 For the sketch, draw these two lines as dashed guides. Draw the branches through the vertices, approaching the asymptotes as they extend away from the center.
 
-### 5. Sketches
-
-![Circle, ellipse, parabola, and hyperbola with key features](problem_1_sketches.png)
-
-The coordinate scales are equal along the two axes within each panel. Dashed lines show the parabola's directrix and the hyperbola's asymptotes.
-
 ## Verification
 
 For the circle, the marked intercepts satisfy the equation. For example,
